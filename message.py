@@ -1,1 +1,1 @@
-print ("Good morning!")
+print ("Good morning, welcome to our playground!")
